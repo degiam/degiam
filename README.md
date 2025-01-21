@@ -1,10 +1,9 @@
 # Hello, I'm Degiam
 
-**Also known as Muhammad N. Hikam**, I work as a **Frontend Developer** with 7+ years of experience. I specialize in crafting responsive and dynamic websites and applications for various clients, with a strong understanding of cross-browser behavior for both smartphone and desktop platforms.
+Also known as **Muhammad N. Hikam**. I'm **Frontend Developer** for 7+ years. I specialize in crafting responsive and dynamic webs and apps with a strong understanding of cross-platform devices.
 
-- **Official Site:** [degiam.my.id](https://degiam.my.id)
-- **Business Profile:** [about.degiam.my.id](https://about.degiam.my.id)
-- **Web App:** [app.degiam.my.id](https://app.degiam.my.id)
+- **Portfolio:** [degiam.my.id](https://degiam.my.id/projects)
+- **Open Source Apps:** [s.id/degiam](https://s.id/degiam)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,14 +11,17 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230ca4e8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Next](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Solid](https://img.shields.io/badge/solid-%234f88c6.svg?style=for-the-badge&logo=solid&logoColor=white)
+![Preact](https://img.shields.io/badge/preact-%23673ab8.svg?style=for-the-badge&logo=preact&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
